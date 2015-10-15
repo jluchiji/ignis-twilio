@@ -5,10 +5,12 @@
   "rules": {
     "new-cap": 0,
     "no-undef": 2,
+    "id-length": 0,
     "func-names": 0,
     "no-console": 1,
     "key-spacing": 0,
     "padded-blocks": 0,
+    "no-multi-spaces": 0,
     "no-const-assign": 2,
     "no-param-reassign": 0,
 
